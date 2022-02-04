@@ -1,0 +1,28 @@
+body {
+    color: white;
+    background-color: rgb(192, 193, 255);
+    }
+    
+    .heading {
+    
+        width: 80%;
+        font-size: 25px;
+    }
+    
+    #camera {
+    
+        border: 2px dashed black;
+        width: 350px;
+        height: 300px;
+    }
+    .name_of_object {
+    
+    color: black;
+    
+    }
+    
+    #Accuracy ,object {
+    
+        color: red;
+    
+    }
